@@ -1,0 +1,26 @@
+h1{
+	color:orange;
+}
+#content1{
+	text-align:center;
+	padding-top:30%;
+}
+#content2
+{
+	text-align:center;
+	margin-top: 10px;
+}
+.white{
+	color:white;	
+}
+
+body{
+	background: url('Indexpage.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: calc(100vh);
+    min-height: 700px;
+}
+input{
+	border: solid black 4px;
+}

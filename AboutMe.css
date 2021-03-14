@@ -1,0 +1,21 @@
+h1{
+	color:orange;
+}
+h2{
+	color:orange;
+}
+
+body{
+	background: url('https://3kyfma1tr3gd273qz5237tyv-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/M16-JUNIOR-WEB-DEVELOPER-COURSE.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: calc(100vh);
+    min-height: 700px;
+}
+.white{
+	padding-top:10%;
+	color:white;
+}
+p{
+	color:black;
+}
