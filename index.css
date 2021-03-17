@@ -8,14 +8,14 @@ h1{
 #content2
 {
 	text-align:center;
-	margin-top: 10px;
+	padding-top: 10px;
 }
 .white{
 	color:white;	
 }
 
 body{
-	background: url('Indexpage.jpg');
+	background-image: url('Indexpage1.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: calc(100vh);
